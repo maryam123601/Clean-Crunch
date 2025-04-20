@@ -1,0 +1,101 @@
+Name	Gender	Age	Address	Status	Occupation	Problems
+Maryam	Female	20	Abeokuta	Single	Data Analyst	Job Problem
+Zainab	Female	21	ifo	Single	Business Analyst	Job Problem
+Kafeelah	Female	22	Atan	Single	Accountant	Job Problem
+Fareedah	Female	23	Iyana	Married	Trader	Job Problem
+Rasheed	Male	24	Ilogbo	Married	Financial Analyst	Job Problem
+John	Male	25	Sango	Married	Pediatrician	Job Problem
+Tobi	Male	26	Ota	Married	Nurse	Job problem
+Rapheal	Male	27	Meiran	Married	Actor	Job Problem
+Bisi	Female	28	Ede	Single	Teacher	Job Problem
+Tope	Male	29	GRA	Married	Hunter	Job Problem
+Omowunmi	Female	30	Yaba	Married	Farmer	Financial Problem
+Remi	Female	31	Ijaye	Single	Developer	Financial Problem
+Kemi	Female	32	Command	Single	Hair Stylist	Financial Problem
+Ore	Female	33	Ojuore	Married	Nail Technician	Financial Problem
+Tokunbo	Male	34	Ile Iwe	Married	Chef	Financial Problem
+Arike	Female	35	Awori	Married	Fashion Designer	Financial Problem
+Opeyemi	Female	36	Dalemo	Single	psychologist	Financial Problem
+Daniel	Male	37	Toll Gate	Single	Teacher	Financial Problem
+Richard	Male	38	Married	Married	Police Man	Financial Problem
+Fiyin	Female	39	Abule Egba	Single	Actress	Financial Problem
+Saheed	Male	40	Ikorodu	Married	Soldier	Housing Problem
+Motunrayo	Female	41	CMS	Married	Physiologist	Housing Problem
+Deyemi	Male	42	Cardiotherapist	Single	Cardiotherapist	Housing Problem
+Bolanle	Female	43	Surulere	married	Engineer	Housing Problem
+Imole Ayo	Male	44	Sanyo	Married	Pediatrician	Housing Problem
+Gabriel	Male	45	Ibadan	Single	Ethical Hacker	Housing Problem
+Gabriella	Female	46	Agbado	Single	Software Engineer	Housing Problem
+Temi	Female	47	Ilaro	Single	Cinematographer	Housing Problem
+Taiwo	Male	48	Papa	Married	Script Writer	Housing Problem
+Kehinde	Female	49	Igbesa	Married	Teacher	Housing Problem
+Idowu	Male	50	Alakuko	Married	Nanny	Insecurity
+Denrele	Male	14	Iwo Road	Single	Student	Insecurity
+Hannah	Female	15	Ijako	Single	Student	Insecurity
+Ester	Female	16	Oja Oba	Single	Student	Insecurity
+Yetunde	Female	17	Arigbajo	Single	Student	Insecurity
+Malik	Male	18	Sangotedo	Single	Student	Insecurity
+Muhammed	Male	19	Ajah	Single	Student	Insecurity
+Faith	Male	20	Challenge	Single	Student	Insecurity
+Ajike	Female	14	Ede	Single	Student	Insecurity
+Ajoke	Female	13	Amen Estate	Single	Insecurity	Insecurity
+Fateemah	Female	50	Ajah	Married	Teacher	Fuel Scarcity
+Jubril	Male	51	Lekki phase one	Single	Soldier	Fuel Scarcity
+Agnes	Female	52	Ogba	Married	Nurse	Fuel Scarcity
+Dele	Male	53	Plaza	Single	UI / UX Designer	Fuel Scarcity
+Timini	Male	54	Ketu	Married	Hair Stylist	Fuel Scarcity
+Arike	Female	55	Iju	Single	Fashion Designer	Fuel Scarcity
+Nasroh	Female	56	Sagamu	Single	Neuro Surgeon	Fuel Scarcity
+Usman	Male	57	Arigbajo	Married	Python Developer	Fuel Scarcity
+Nike	Female	58	Igando	Single	Shoe Cobbler	Fuel scarcity
+Baseeroh	Female	59	Ijebu Ode	Single	Police man	Fuel scarcity
+Yetty	Female	60	Gasline	Married	Civil Engineer	Blackout
+Tom	Male	43	Igando	Single	Programmer	Blackout
+James	Male	29	Ila Orogun	Single	Surveyor	Black out
+Aweni	Female	23	Aiyetoro	Single	Sales Girl	Black out
+Sidi		34	Jakande Estate	Married	House wife	Black out
+Olamide	Female	32	Yemi Close	Single	Accountant	Black out
+Mustopha	Male	42	Imeri	Married	Business Man	Black out
+Murtadho	Male	90	Ajah	Married	Business Man	Black out
+Mubarak	Male	10	Ipaja	Single	Student	Black out
+Basit	Male	28	Kola	Married	Quantity Surveyor	Black out
+Mardiyyah	Female	43	Kuto	Married	Doctor	Black out
+Mazeedah	Female	70	Aiyepe	Single	CEO	Black out
+Kameelah	Female	21	Ijebu Mushin	Single	Electrician	Black out
+Kamil	Male	40	Ijebu Igbo	Married	Digital Marketer	Black out
+Gabriel	Male	65	Ede	Single	Freelancer	Black out
+Priscilla	Female	24	Agege	Married	Influencer	Job Problem
+Festus	Male	27	Magodo	Single	Musician	Job Problem
+Ahmed	Male	27	Abuja	Married	Forex Trader	Job Problem
+Safeerah	Female	25	FCT	Married	Forex Trader	Job Problem
+Safiyyah	Female	45	Ilesa	Single	Full House wife	Job Problem
+Dayo	Female	31	Kolapo Close	Single	Student	Job Problem
+Ray	Male	34	Yemi Close	Married	Director	Job Problem
+Mary	Female	70	Ajah	Married	Producer	Job Problem
+Zinat	Female	42	Folagbade Estate	Single	Actress	Job Problem
+Kolapo	Male	50	Ogba	Married	Business Analyst	Financial Problem
+Fiyin	Male	32	GRA	Single	Mortuary Attendant	Financial Problem
+Caleb	Male	45	Ijebu Ode	Married	Carpenter	Financial Problem
+Rasheedah	Female	34	Igbeba	Single	Thrift Vendor	Financial Problem
+Gideon	Male	32	Festac	Married	Song Writer	Financial Problem
+Kabeeroh	Female	30	Ago Adura	Single	Beautician	Financial Problem
+Krishna	Female	54	Surulere	Married	House Wife	Financial Problem
+Isiaq	Male	32	Risi Close	Single	Analyst	Financial Problem
+Balqees	Female	21	Festac Close	Single	Goldsmith	Financial Problem
+Bolu	Female	41	Soka	Married	Blacksmith	Housing Problem
+Tope	Female	31	Iju	Married	Agent	Housing Problem
+Jason	Male	38	Isaka	Married	Neurosurgeon	Housing Problem
+Promise	Female	29	Ijako	Single	Barrister	Housing Problem
+Fuad	Male	65	Hillary Estate	Married	Plumber	Housing Problem
+Firdaus	Female	23	Tipper Garage	Single	Actress	Housing Problem
+Gabriella	Female	40	Didi Close	Married	Politician	Housing Problem
+Julius	Male	67	Folagbade Estate	Married	Grammarian	Housing Problem
+Aisha	Female	43	Agbado Oja	Single	Soldier	Housing Problem
+fife	Female	20	Alakuko	Single	Student	Job Problem
+Risi	Female	23	Yemi Close	Single	Student	Job Problem
+Tola	Female	43	Abule Egba	Married	Python Developer	Job Problem
+Fife	Female	20	Festac	Single	Student	Job Problem
+Gideon	Male	65	Dalemo	Married	Baker	Financial Problem
+Sharon	Female	45	Oja Odan	Single	Tailor	Financial problem
+Demola	Male	67	Dalemo	Married	Fisherman	Financial Problem
+Yunus	Male	87	Berger	Married	Nanny	Housing Problem
