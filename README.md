@@ -8,7 +8,6 @@ This project analyzes the top societal problems in Nigeria based on survey data.
 
 To understand and visualize the most common challenges reported by Nigerian citizens based on survey responses.
 
----
 
 ## 🧰 Tools Used
 *Python*
@@ -47,7 +46,6 @@ Bar chart generated using Python’s matplotlib showing top 3 problems categoriz
 3. Run the Python file  
    python analysis.py
 
----
 
 ## Author
 
