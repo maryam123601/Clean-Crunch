@@ -19,7 +19,7 @@ To understand and visualize the most common challenges reported by Nigerian citi
 
 ## 📊 Sample Chart Output
 
-[Top Nigerian Problems Chart](chart.png)
+[Top Nigerian Problems Chart](sample_chart.png)
 
 Bar chart generated using Python’s matplotlib showing top 3 problems categorized by gender.
 
