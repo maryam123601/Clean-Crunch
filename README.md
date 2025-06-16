@@ -1,40 +1,61 @@
-# Clean-Crunch
-A simple data collection and analysis project using Python
+# 🇳🇬 Nigerian Problems Survey (Python Project)
 
-# Nigerian Survey Project
-
-This project is a Python-based survey application that collects information from 99 users about their demographics and personal problems. The data is saved to a CSV file and visualized using a bar chart.
-
-## Features
-
-- Collects user data: name, gender, age, address, marital status, occupation, and problems.
-- Saves all responses to a CSV file (nigerian_survey.csv).
-- Analyzes and visualizes the top 3 problems by gender using a bar chart.
-- Uses Python libraries like csv, collections, matplotlib, and numpy.
+This project analyzes the top societal problems in Nigeria based on survey data. It uses Python to process, analyze, and visualize the data, giving insights into what issues Nigerians face the most.
 
 
 
-## How to Run
+## 📌 Objective
 
-1. Make sure you have Python installed.
-2. Clone the repository or download the files.
-3. Run survey_collector.py to input survey data.
-4. Run problem_visualizer.py to generate a bar chart of the top 3 problems by gender.
+To understand and visualize the most common challenges reported by Nigerian citizens based on survey responses.
 
-## Sample Output
+---
 
-Bar chart showing top 3 problems for males and females based on survey data.
-! [sample chart] (sample_chart.png)
+## 🧰 Tools Used
+*Python*
+*CSV File Handling*
+*Matplotlib* for chart plotting
+*Git* and *GitHub* for version control
 
-## Tools Used
 
-- Python
-- Jupyter Notebook
-- Matplotlib
-- CSV Module
+## 📊 Sample Chart Output
+
+[Top Nigerian Problems Chart](chart.png)
+
+Bar chart generated using Python’s matplotlib showing top 3 problems categorized by gender.
+
+
+
+## 📁 Project Structure
+
+| File Name         | Description                                 |
+|------------------|---------------------------------------------|
+| analysis.py     | Python script for data analysis             |
+| nigerian_survey.csv | The dataset used for analysis          |
+| chart.png       | Output image/chart from Python              |
+| README.md       | Project description and documentation       |
+
+
+
+## 🔍 How to Run
+
+1. Clone the repository  
+   git clone https://github.com/Clean_crunch/nigerian-problems-survey.git
+
+2. Navigate into the folder  
+   cd nigerian-problems-survey
+
+3. Run the Python file  
+   python analysis.py
+
+---
 
 ## Author
 
-[Maryam]
+*Isiaq Mariam Anuoluwapo*  
+Aspiring Data Analyst | Python Enthusiast | Team Player
 
----
+
+
+## 📬 Contact
+Email: maryamharnuholuwapoisiaq@gmail.com
+
